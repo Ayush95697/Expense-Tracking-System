@@ -65,7 +65,7 @@ A full-stack personal finance tracker that allows users to add, update, and anal
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/expense-management-system.git
+git clone https://github.com/Ayush95697/expense-management-system.git
 cd expense-management-system
 ```
 ### 2. Create and activate virtual environment (optional but recommended)
